@@ -1,3 +1,8 @@
+Here’s a simple **README.md** file you can use for your Basic Calculator Program:
+
+---
+
+```markdown
 # Basic Calculator Program
 
 This is a simple command-line calculator written in Python. It allows users to perform basic arithmetic operations — addition, subtraction, multiplication, and division — between two numbers.
@@ -27,3 +32,25 @@ This is a simple command-line calculator written in Python. It allows users to p
 
 ## Example
 
+```
+
+Enter the first number: 10
+Enter the second number: 5
+Enter the operation (+, -, \*, /): +
+10.0 + 5.0 = 15.0
+
+```
+
+## Requirements
+
+- Python 3.x
+
+## Notes
+
+- Only basic arithmetic is supported.
+- The program performs one operation at a time.
+- Invalid input or operator will return a helpful message.
+
+## License
+
+This project is open-source and free to use.
